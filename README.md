@@ -9,13 +9,19 @@
 
 ## LoRa 통신기반 자가발전형 원격 수로 모니터링 시스템
 
+<div align="center">
+<img src="https://github.com/cjk09083/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/1.%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%A9%94%EC%9D%B8.png" width="30%"/>&nbsp;  
+<img src="https://github.com/cjk09083/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/사진%26영상/2.%20홈페이지%20상세.png" width="30%"/>
+</div></br>
+
+
 ## 목적
 - 수로에 흐르는 물을 이용해 자가발전 
 - 수로와 사무실간의 LoRa를 이용한 무선통신을 연결하고 데이터 송수신 하는 시스템 
 - 수로의 상태를 홈페이지에서 모니터링하고 홈페이지에서 수로를 원격 제어
 
 ## 담당 
-- 모니터링 홈페이지 (Html, PHP, JavaScript)  
+- 모니터링 홈페이지 (HTML, PHP, JavaScript)  
 - 아두이노의 수로 모터 제어와 센서링 정보 무선 통신 (LoRa, WiFi)
 - KC 인증 (전자파적합성인증 - 한국전자통신연구원)
 - 소수력 발전을 위한 충방전 회로 설계 
