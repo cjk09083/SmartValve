@@ -42,7 +42,7 @@
  
 영상) 수로 밸브를 50%-> 1% 로 제어
 <div align="center">
-<img src="https://github.com/cjk09083/SmartValve/tree/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81.gif" width="60%"/>
+<img src="https://github.com/cjk09083/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/%EB%B0%B8%EB%B8%8C_%EC%A0%9C%EC%96%B4_50_to_1.gif" width="60%"/>
 </div></br>
 
 ### KC 인증 (전자파적합성인증) - 제어보드 / 전자파테스트 / 충격테스트
