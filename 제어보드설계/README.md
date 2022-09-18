@@ -2,7 +2,7 @@
 
 ## 시스템 블록도
 <div align="center">
-<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/시스템%20흐름도.png" width="80%"/>
+<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/시스템%20흐름도.png" width="100%"/>
 </div></br>
 1. 수로의 메인보드와 게이트웨이는 동일한 LoRa 통신 보드를 사용하여 통신한다.
 
@@ -18,7 +18,7 @@
 
 ## 보드 블록도
 <div align="center">
-<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/제어박스%20구성.png" width="80%"/>
+<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/제어박스%20구성.png" width="100%"/>
 </div></br>
 1. 배터리(20~24V)의 전압이 모터드라이브에 공급되고 컨버터를 통해 5V로 다운되어 Nano 보드와 LoRa 보드에 공급된다. 
 
