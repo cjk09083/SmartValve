@@ -10,8 +10,8 @@
 ## LoRa 통신기반 자가발전형 원격 수로 모니터링 시스템
 
 <div align="center">
-<img src="https://github.com/cjk09083/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/1.%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%A9%94%EC%9D%B8.png" width="30%"/>&nbsp;  
-<img src="https://github.com/cjk09083/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/사진%26영상/2.%20홈페이지%20상세.png" width="30%"/>
+<img src="https://github.com/cjk09083/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/1.%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%A9%94%EC%9D%B8.png" width="45%"/>&nbsp;  
+<img src="https://github.com/cjk09083/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/2.%20홈페이지%20상세.png" width="45%"/>
 </div></br>
 
 
