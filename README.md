@@ -31,8 +31,8 @@
 ### 1. 수로에서 흐르는 물로 발전기를 돌려 아두이노와 센서들을 동작시킬 전력 충전
  - 수로 내에 수차와 발전기를 연결, 발생하는 전력을 변환하여 배터리에 충전
 <div align="center">
-<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/수로%20구조.png" width="40%"/>&nbsp;  
-<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/제어박스%20내부.png" width="45%"/>
+<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/수로구조도.PNG" width="40%"/>&nbsp;  
+<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/수로%20구조.png" width="40%"/>
 </div></br>
 
 ### 2. 수로에서 측정한 정보를 서버와 연동
@@ -44,8 +44,9 @@
 <img src="https://github.com/cjk09083/SmartFarm/blob/main/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EB%86%8D%EC%9E%A5%20%EB%82%B4%EB%B6%80.jpg" width="60%"/>
 </div></br>
 
-### KC 인증 (전자파적합성인증)
+### KC 인증 (전자파적합성인증) - 제어보드 / 전자파테스트 / 충격테스트
 <div align="center">
-<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/전자파%20테스트.PNG" width="40%"/>&nbsp;  
-<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/충격%20테스트.PNG" width="45%"/>
+ <img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/제어박스%20내부.png" width="30%"/>&nbsp;  
+<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/전자파%20테스트.PNG" width="30%"/>&nbsp;  
+<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/충격%20테스트.PNG" width="30%"/>
 </div></br>
