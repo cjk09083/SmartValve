@@ -40,7 +40,7 @@
  - 사무실에 설치된 아두이노에서 서버로 정보 업로드 (Wifi HTTP)
  - 홈페이지에서 밸브 OPEN량을 0~100%로 조절하면 통신이 역순으로 수로에 도달해 수로의 수문에 달린 모터 제어 
  
-영상) 수로 밸브를 50%-> 1% 로 제어
+영상) 수로 밸브를 50%-> 1% 로 제어 (사진&영상/밸브 제어 50 to 1.mp4)
 <div align="center">
 <img src="https://github.com/cjk09083/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/%EB%B0%B8%EB%B8%8C_%EC%A0%9C%EC%96%B4_50_to_1.gif" width="60%"/>
 </div></br>
