@@ -1,0 +1,31 @@
+1. 일반(standby) 모드: 1
+LoRa.idle();
+
+2. 수신 전용 모드 : 2
+LoRa.receive();
+
+3. 슬립 모드 :  3
+LoRa.sleep();
+
+4. txpower 변경 : 
+LoRa.setTxPower(txPower);  // TX power in dB, defaults to 17, 14dB=25mW
+
+5. 주파수 변경 : 
+LoRa.setFrequency(frequency); // 920.9(q) 923.1(w) 923.3(e)
+
+6. 점유주파수대역폭 변경:
+LoRa.setSignalBandwidth(signalBandwidth);  // 62.5E3(a), 125E3(d)
+// 7.8E3, 10.4E3, 15.6E3, 20.8E3, 31.25E3, 41.7E3, 62.5E3, 125E3(defaults), 250E3, and 500E3
+
+7. Invert IQ Signals :
+LoRa.enableInvertIQ(); // z
+LoRa.disableInvertIQ(); // c
+
+8. 데이터 패킷 전송: t
+LoRa.beginPacket();
+LoRa.print(data);
+LoRa.endPacket();
+
+9. Lora 통신 시작 중지:
+LoRa.begin(frequency); // x
+LoRa.end(); // s
