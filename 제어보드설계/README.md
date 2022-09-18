@@ -1,7 +1,9 @@
 # 시스템 구조
 
 ## 시스템 블록도
-
+<div align="center">
+<img src="https://github.com/cjk09083/SmartFarm/blob/main/사진%26영상/시스템%20흐름도.png" width="80%"/>
+</div></br>
 1. 수로의 메인보드와 게이트웨이는 동일한 LoRa 통신 보드를 사용하여 통신한다.
 
 2. 수로에서 게이트웨이로 온도&유량&압력 센서값과 배터리잔량, 발전량, 밸브값(닫힌 정도)을 전송한다. </br>
@@ -15,7 +17,9 @@
 
 
 ## 보드 블록도
-
+<div align="center">
+<img src="https://github.com/cjk09083/SmartFarm/blob/main/제어박스%20구성.png" width="80%"/>
+</div></br>
 1. 배터리(20~24V)의 전압이 모터드라이브에 공급되고 컨버터를 통해 5V로 다운되어 Nano 보드와 LoRa 보드에 공급된다. 
 
 2. 보드의 LoRa보드에서 RS485통신을 통해 압력&유량&온도 센서값을 가져오고 수로 발전기의 발생 전압과 배터리 전압을 전압센서를 통해 가져온다. </br>
