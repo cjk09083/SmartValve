@@ -46,7 +46,7 @@
 
 ### KC 인증 (전자파적합성인증)
 <div align="center">
- <img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/제어박스%20내부.png" width="33%"/>&nbsp;  
+ <img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/제어박스%20내부.png" width="30%"/>&nbsp;  
 <img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/전자파%20테스트.PNG" width="30%"/>&nbsp;  
-<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/충격%20테스트.PNG" width="33%"/>
+<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/충격%20테스트.PNG" width="30%"/>
 </div></br>
