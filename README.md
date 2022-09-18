@@ -30,6 +30,10 @@
 
 ### 1. 수로에서 흐르는 물로 발전기를 돌려 아두이노와 센서들을 동작시킬 전력 충전
  - 수로 내에 수차와 발전기를 연결, 발생하는 전력을 변환하여 배터리에 충전
+<div align="center">
+<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/수로%20구조.png" width="45%"/>&nbsp;  
+<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/제어박스%20내부.png" width="45%"/>
+</div></br>
 
 ### 2. 수로에서 측정한 정보를 서버와 연동
  - 수로에 설치된 아두이노와 사무실에 설치된 아두이노간의 LoRa 통신 연결 (무자격으로 사용 가능한 923.1MHz 대역 사용)
